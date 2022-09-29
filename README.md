@@ -8,3 +8,5 @@
 
 相係作品介紹可至以下Tableau連結瀏覽：
 https://public.tableau.com/app/profile/12joe/viz/Book1_16642700107050/Dashboard1
+
+![image](https://github.com/12JoeCheng/Forest_Project/blob/main/forest_and_deforestation.png)
